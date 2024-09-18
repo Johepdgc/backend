@@ -1,0 +1,24 @@
+"Total Users",Date
+30,20240918
+Gender,Total
+male,13
+female,17
+other,0
+
+Age,Male,Female,Other
+00-10,0,0,0
+11-20,0,0,0
+21-30,2,10,0
+31-40,9,6,0
+41-50,2,1,0
+51-60,0,0,0
+61-70,0,0,0
+71-80,0,0,0
+81-90,0,0,0
+91+,0,0,0
+
+City,Male,Female,Other
+Unknown,13,17,0
+
+SO,Total
+Unknown,30
